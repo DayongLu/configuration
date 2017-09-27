@@ -1,0 +1,7 @@
+esoa:
+  kafka:
+    bootstrap: localhost:9092
+  database:
+    url: jdbc://localhost:9999/jjjj
+    username: dlu
+    password: xxx

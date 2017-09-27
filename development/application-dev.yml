@@ -4,4 +4,4 @@ esoa:
   database:
     url: jdbc://localhost:9999/jjjj
     username: dlu
-    password: xxx
+    password: bbb
